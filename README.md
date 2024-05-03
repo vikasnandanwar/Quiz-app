@@ -4,7 +4,7 @@ Develop a quiz web app for final project phase 0 - batch 34 (Humble Fox) at Hack
 
 **Chickuiz** is a quiz app, where the player attempt to answer questions correctly. It is a game to test your skill in general knowledge subject.
 
-:baby_chick: [**Play The Game**] **https://andreassosilo.github.io/chickuiz/**
+:baby_chick: [**Play The Game**] **[https://andreassosilo.github.io/chickuiz/](https://github.com/vikasnandanwar/Quiz-app)**
 
 ![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz.png "Chickuiz Home")
 ![alt text](https://github.com/andreassosilo/chickuiz/blob/master/assets/chickuiz3.png "Chickuiz Gameplay")
